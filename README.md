@@ -4,10 +4,10 @@
 
 ## Questioning the Original Intention of the Baalbek Quarry Megaliths
 
-**Author:** Alan G. Friar
-**Organization:** EnBra Group
-**Version:** 1.0
-**Date:** 2026-04
+**Author:** Alan G. Friar  
+**Organization:** EnBra Group  
+**Version:** 1.0  
+**Date:** 2026-04  
 
 ---
 
