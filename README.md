@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/1203144649.svg)](https://doi.org/10.5281/zenodo.19443998)
 
 # BAALBEK-GEO
 
